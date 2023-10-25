@@ -2,7 +2,7 @@
     {
         "nombre": "Dulces a la Vista",
         "fotos": ["https://raw.githubusercontent.com/Duzacs/DNM_12/main/img/dulces_1.webp", "https://raw.githubusercontent.com/Duzacs/DNM_12/main/img/dulces_2.webp", "https://raw.githubusercontent.com/Duzacs/DNM_12/main/img/dulces_3.webp"],
-        "soporte": "servicios", "branding", "web", "ux"
+        "soporte": "servicios",
         "abstract": "Proyecto de intervención en La Ligua",
         "texto": "Programa de intervención para los productores de dulces en la Ligua. Realizado en conjunto con INAPI, el énfasis está en visibilizar las casas de elaboración de dulces. Busca aumentar el valor de la indicación geográfica, en conjunto con el sello, así como impulsar el turismo. Para ello se diseñó un portal web que permite a sus usuarios integrarse al programa, así como un folleto físico imprimible. Se realizó en conjunto con Pilar Quinteros, Isidora Gómez, Fernanda Rozas y Emil Gatica a mediados del año 2023."
     },
