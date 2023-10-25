@@ -2,7 +2,7 @@
     {
         "nombre": "Dulces a la Vista",
         "fotos": ["https://raw.githubusercontent.com/Duzacs/DNM_12/main/img/dulces_1.webp", "https://raw.githubusercontent.com/Duzacs/DNM_12/main/img/dulces_2.webp", "https://raw.githubusercontent.com/Duzacs/DNM_12/main/img/dulces_3.webp"],
-        "soporte": "servicios",
+        "soporte": "servicios", "branding", "web", "ux"
         "abstract": "Proyecto de intervención en La Ligua",
         "texto": "Programa de intervención para los productores de dulces en la Ligua. Realizado en conjunto con INAPI, el énfasis está en visibilizar las casas de elaboración de dulces. Busca aumentar el valor de la indicación geográfica, en conjunto con el sello, así como impulsar el turismo. Para ello se diseñó un portal web que permite a sus usuarios integrarse al programa, así como un folleto físico imprimible. Se realizó en conjunto con Pilar Quinteros, Isidora Gómez, Fernanda Rozas y Emil Gatica a mediados del año 2023."
     },
@@ -14,7 +14,7 @@
         "texto": "Realizado durante el año 2022 en conjunto con Constanza Velásquez y Javiera Corona, Ekin es un juguete que busca que los niños se transporten al espacio exterior al jugar, creando su propio planeta con piezas adoptadas a una temática espacial fantástica. El niño o niña podrá interactuar sintiéndose completamente libre y en control de su espacio de juego al crear su propia “cancha”, y con la capacidad de crear una infinidad de mundos espaciales. Todas las piezas de Ekin fueron creadas con el biomaterial biofoam, compuesto de gelatina, agua, glicerina, shampoo orgánico y desechos orgánicos de frutas. Este material ayuda a provocar una sensación de estar jugando en un mundo extraño y desconocido."
     },
     {
-        "nombre": "El color como escencia del alma",
+        "nombre": "El color como esencia del alma",
         "fotos": ["https://raw.githubusercontent.com/Duzacs/DNM_12/main/img/el_color_1.webp", "https://raw.githubusercontent.com/Duzacs/DNM_12/main/img/el_color_2.webp", "https://raw.githubusercontent.com/Duzacs/DNM_12/main/img/el_color_3.webp"],
         "soporte": "editorial",
         "abstract": "Composición de doble página a manera de revista",
